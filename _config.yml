@@ -54,6 +54,11 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# Excluded because of missing polyglot plugin on github pages
+exclude:
+  - _companies/retraites-populaires-fr.markdown
+  - companies-fr.markdown
+
 # Internationalization through jekyll-polyglot plugin
 languages: ["en", "fr"]
 default_lang: "en"

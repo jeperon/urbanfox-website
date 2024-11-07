@@ -1,7 +1,5 @@
 ---
-# Disabled while polyglot is not supported by github pages
-#layout: page
-layout: null
+layout: page
 title: "Retraites Populaires"
 name: "Retaites Populaires"
 location: Lausanne
