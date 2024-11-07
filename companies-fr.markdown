@@ -1,5 +1,7 @@
 ---
-layout: page
+# Disabled while polyglot is not supported by github pages
+#layout: page
+layout: null
 title: Entrepries
 permalink: companies
 lang: fr
