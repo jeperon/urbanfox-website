@@ -59,6 +59,7 @@ plugins:
 exclude:
   - _companies/retraites-populaires-fr.markdown
   - companies-fr.markdown
+  - index-fr.markdown
 
 # Internationalization through jekyll-polyglot plugin
 languages: ["en", "fr"]
