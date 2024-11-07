@@ -3,6 +3,7 @@ layout: page
 title: Companies
 permalink: companies
 lang: en
+page_id: companies
 ---
 
 Below is a list of companies I worked for:
