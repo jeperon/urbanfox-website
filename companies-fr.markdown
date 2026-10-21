@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Entrepries
+title: Entreprises
 permalink: companies
 lang: fr
 page_id: companies

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Retraites Populaires"
-name: "Retaites Populaires"
+name: "Retraites Populaires"
 location: Lausanne
 industry: Assurance
 website: https://www.retraitespopulaires.ch
